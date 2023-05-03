@@ -1,0 +1,6 @@
+﻿  Soru-2.cpp
+C:\Users\baran\OneDrive\Masaüstü\Okul\Görsel Programlama\Soru-2\Soru-2\Soru-2.cpp(29,17): error C2131: ifade sabit olarak değerlendirilmedi
+C:\Users\baran\OneDrive\Masaüstü\Okul\Görsel Programlama\Soru-2\Soru-2\Soru-2.cpp(29,14): message : bir değişkenin kendi ömrünün dışında okunması bu hataya neden oldu
+C:\Users\baran\OneDrive\Masaüstü\Okul\Görsel Programlama\Soru-2\Soru-2\Soru-2.cpp(29,14): message : 'n1' kullanımına bakın
+C:\Users\baran\OneDrive\Masaüstü\Okul\Görsel Programlama\Soru-2\Soru-2\Soru-2.cpp(35,16): warning C4477: 'printf' : '%d' biçim dizesi 'int' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'int [n1+n2]'
+C:\Users\baran\OneDrive\Masaüstü\Okul\Görsel Programlama\Soru-2\Soru-2\Soru-2.cpp(35,16): warning C4313: 'printf': biçim dizesindeki '%d', 1 bağımsız değişkeniyle (türü 'int [n1+n2]') çakışıyor
